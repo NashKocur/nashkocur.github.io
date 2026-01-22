@@ -1,6 +1,6 @@
 ---
 title: "Untitled Document"
-date: 2026-01-22T01:08
+date: 2026-01-22T01:08:00Z
 draft: false
 ---
 
