@@ -1,0 +1,22 @@
+baseURL = "https://nashkocur.github.io/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "PaperMod"
+
+[params]
+  author = "Nash Kocur"
+  description = "My personal blog"
+
+  [params.homeInfoParams]
+    Title = "Welcome to My Blog"
+    Content = "Thoughts, stories, and ideas"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
