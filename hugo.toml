@@ -6,6 +6,7 @@ theme = "PaperMod"
 [params]
   author = "Nash Kocur"
   description = "My personal blog"
+  disableAnchoredHeadings = true
 
   [params.homeInfoParams]
     Title = "Welcome to My Blog"
