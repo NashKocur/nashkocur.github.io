@@ -1,12 +1,11 @@
 baseURL = "https://nashkocur.github.io/"
 languageCode = "en-us"
-title = "My Blog"
+title = "Goodnews Everybody!"
 theme = "PaperMod"
 
 [params]
   author = "Nash Kocur"
-  description = "My personal blog"
-  disableAnchoredHeadings = true
+  description = "Electrical and mechanical engineer. Interested in electromagnetics, machine learning, LLMs, and building tools. Works in GNC in aerospace."
 
   [params.homeInfoParams]
     Title = "Welcome to My Blog"
