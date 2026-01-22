@@ -11,6 +11,11 @@ theme = "PaperMod"
     Title = "Stuff and Interesting Things"
     Content = "Electrical and mechanical engineer. Interested in electromagnetics, machine learning, LLMs, and building tools. Works in GNC in aerospace."
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
   [[menu.main]]
     identifier = "posts"
