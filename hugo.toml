@@ -8,8 +8,8 @@ theme = "PaperMod"
   description = "Electrical and mechanical engineer. Interested in electromagnetics, machine learning, LLMs, and building tools. Works in GNC in aerospace."
 
   [params.homeInfoParams]
-    Title = "Welcome to My Blog"
-    Content = "Thoughts, stories, and ideas"
+    Title = "Stuff and Interesting Things"
+    Content = "Electrical and mechanical engineer. Interested in electromagnetics, machine learning, LLMs, and building tools. Works in GNC in aerospace."
 
 [menu]
   [[menu.main]]
